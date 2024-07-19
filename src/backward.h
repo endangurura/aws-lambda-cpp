@@ -96,6 +96,7 @@
 #include <vector>
 #include <exception>
 #include <iterator>
+#include <dlfcn.h>
 
 #if defined(BACKWARD_SYSTEM_LINUX)
 
